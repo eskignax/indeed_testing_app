@@ -3,7 +3,7 @@
 #Indeed APK test
 
 ### What is this repository for? ###
-Testing framework for Indeed APP in ruby
+Unofficial Testing framework for Indeed APP in ruby
 
 ### How do I get set up? ###
 #### Install
