@@ -3,7 +3,7 @@
 #Indeed APK test
 
 ### What is this repository for? ###
-Testing framework for Grab Passenger APP in ruby
+Unofficial Testing framework for Indeed APP in ruby
 
 ### How do I get set up? ###
 #### Install
@@ -19,6 +19,3 @@ Testing framework for Grab Passenger APP in ruby
         cucumber
 #### Run the test with allure report
         cucumber -p allure
-        
-
-
