@@ -1,0 +1,2 @@
+default: -f pretty --expand --color -t ~@wip
+allure: --format AllureCucumber::Formatter -t ~@wip --color
