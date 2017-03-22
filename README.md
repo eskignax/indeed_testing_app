@@ -4,6 +4,7 @@
 
 ### What is this repository for? ###
 Unofficial Testing framework for Indeed APP in ruby
+Device have to be set in English.
 
 ### How do I get set up? ###
 #### Install
